@@ -6,3 +6,5 @@ git config --global --add safe.directory /home/test2
 
 //
 /root/.ssh/id_ed25519
+
+https://stackoverflow.com/questions/29926773/run-shell-command-in-jenkins-as-root-user
